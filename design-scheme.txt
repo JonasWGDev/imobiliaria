@@ -1,0 +1,17 @@
+white-color: #fff
+white-darker-color: #f3f3f3
+red-darker-color: #ff2a2f
+red-light-color: #ff494e
+black-color: #1e1e1e
+yallow-color: #efbd50
+
+horizontal-padding: 5%
+
+sm-font-size: 12px
+md-font-size: 15px
+lg-font-size: 17px
+ultra-lg-font-size: 30px
+
+tablet-responsive-width: 760px
+mobile-responsive-width: 570px
+mini-window-responsive-width: 200px
