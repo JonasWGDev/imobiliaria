@@ -12,6 +12,7 @@ md-font-size: 15px
 lg-font-size: 17px
 ultra-lg-font-size: 30px
 
+
 tablet-responsive-width: 760px
 mobile-responsive-width: 570px
 mini-window-responsive-width: 200px
